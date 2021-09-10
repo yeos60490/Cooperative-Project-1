@@ -4,7 +4,20 @@
 사진을 입력 받으면 알맞은 음악을 추천해주고
 음악을 입력 받으면 알맞은 사진을 추천해준다.
 
+- 사용 기술
 
+
+      AWS Rekognition
+      AWS S3, DynamoDB
+      AWS EC2
+      AWS Cognito, Api Gateway
+      AWS Lambda
+      Librosa
+      OpenCV
+      K-means clustering
+    
+    
+    
 - 사진-음악 Framework
 
 <img width="80%" src="https://user-images.githubusercontent.com/54983764/132696908-3471eb3c-fe12-49ef-bfee-0d96467decfa.png"/>

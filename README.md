@@ -17,6 +17,15 @@
       K-means clustering
     
     
+- 나의 역할
+
+
+      Framework 설계
+      AWS S3, DynamoDB 에 데이터 수집, 저장, 가공
+      AWS Rekognition 사용하여 사진 분석 구현, 사진 벡터 형성
+      AWS Lambda 구현
+      사진, 음악 데이터 상관관계 분석
+      
     
 - 사진-음악 Framework
 

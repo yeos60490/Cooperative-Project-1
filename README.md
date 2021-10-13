@@ -17,7 +17,7 @@
       K-means clustering
     
     
-- 나의 역할
+- 담당
 
 
       Framework 설계
